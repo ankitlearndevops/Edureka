@@ -4,6 +4,7 @@
 1) ls 
 2) ll
 3) mkdir
+Update from remote server 
 
 
 
